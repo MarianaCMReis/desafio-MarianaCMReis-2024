@@ -1,3 +1,29 @@
+# Desafio StartDB - Zoológico
+
+## Descrição
+
+Este repositório contém um desafio para a StartDB, onde o objetivo era implementar a lógica para verificar os recintos para diferentes espécies de animais em um zoológico, utilizando implementando regras que foram propostas.
+
+## Desafio
+
+A tarefa foi implementar a lógica que determina se um animal pode ser incluído em um recinto do zoológico com base em suas necessidades e regras de convivência. Além disso, foi necessário garantir que todos os testes existentes passassem.
+
+## Requisitos
+
+1. *Implementar a Lógica*: Desenvolver a lógica para verificar se um animal pode ser alocado em um recinto com base em biomas e regras específicas para cada espécie.
+2. *Executar Testes*: Fazer com que todos os testes fornecidos passem. Os testes incluem:
+   - Verificar se o recinto é adequado para um animal específico.
+   - Garantir que as regras de convivência e espaço são respeitadas.
+   - Adicionar novos testes com outros animais.
+
+## Testes
+
+Os testes estão localizados no arquivo src/recintos-zoo.test.js. Para executar os testes, utilize o seguinte comando:
+
+```bash
+npm test
+```
+
 # RECINTOS DO ZOO
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
